@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "legacy_uid": "d1c1a465-f21b-fb01-deac-44aea49ab19c",
+  "instructors": {
+    "content": [
+      "c3112142-9ab3-c628-e596-a39ed2eeb7bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dd950605-49e1-1448-87b9-d0dc3a37ecc4",
+    "website": "22-313j-thermal-hydraulics-in-power-technology-spring-2007"
+  },
+  "course_title": "Thermal Hydraulics in Power Technology",
+  "hide_download": true,
+  "course_description": "This course covers the thermo-fluid dynamic phenomena and analysis methods for conventional and nuclear power stations. Specific topics include: kinematics and dynamics of two-phase flows; steam separation; boiling, instabilities, and critical conditions; single-channel transient analysis; multiple channels connected at plena; loop analysis including single and two-phase natural circulation; and subchannel analysis.\n",
+  "department_numbers": [
+    "22",
+    "2",
+    "10"
+  ],
+  "extra_course_numbers": "2.59J,10.536J",
+  "primary_course_number": "22.313J",
+  "course_image_thumbnail": {
+    "content": "3cc6d743-0ebb-2d46-045b-67e4f23a4427",
+    "website": "22-313j-thermal-hydraulics-in-power-technology-spring-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "site_uid": "2a122cd6-5fd1-4dc1-91d6-43156ccee043",
+  "site_short_id": "22.313j-spring-2007",
+  "site_url_path": "courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007",
+  "title": "Course Metadata"
+}
