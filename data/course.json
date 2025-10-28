@@ -40,7 +40,6 @@
     "website": "22-313j-thermal-hydraulics-in-power-technology-spring-2007"
   },
   "course_title": "Thermal Hydraulics in Power Technology",
-  "hide_download": true,
   "course_description": "This course covers the thermo-fluid dynamic phenomena and analysis methods for conventional and nuclear power stations. Specific topics include: kinematics and dynamics of two-phase flows; steam separation; boiling, instabilities, and critical conditions; single-channel transient analysis; multiple channels connected at plena; loop analysis including single and two-phase natural circulation; and subchannel analysis.\n",
   "department_numbers": [
     "22",
@@ -53,7 +52,6 @@
     "content": "3cc6d743-0ebb-2d46-045b-67e4f23a4427",
     "website": "22-313j-thermal-hydraulics-in-power-technology-spring-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions"

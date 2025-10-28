@@ -5,8 +5,6 @@ description: This resource includes a class handout, courtesy of the Idaho Natio
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/82ecaf9963c831b3accbd8c7acad1854_ho_lec05.pdf
 file_size: 82177
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

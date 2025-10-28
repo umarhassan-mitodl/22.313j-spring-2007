@@ -5,8 +5,6 @@ description: This resource contains a problem set on annular and bubbly flow in 
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/f5c22a98d938fbd599270a24ecbe190c_hw_2.pdf
 file_size: 31851
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

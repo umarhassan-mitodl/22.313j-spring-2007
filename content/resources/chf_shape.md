@@ -5,8 +5,6 @@ description: The shape factor for DNB heat flux calculation in non-uniform heate
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/8368012c6afa49285bb3be88f5c1d652_chf_shape.pdf
 file_size: 109084
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

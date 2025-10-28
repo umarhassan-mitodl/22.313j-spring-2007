@@ -4,8 +4,6 @@ description: This resource is a MATLAB file for a problem set.
 file: /courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/d357cfed585624bdb7e20cd85d8f7119_kg.m
 file_size: 377
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
